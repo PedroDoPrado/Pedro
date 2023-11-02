@@ -1,5 +1,6 @@
-<div>
-  <a href="https://github.com/PedroDoPrado">
-  <img height="180em" src"https://github-readme-stats.vercel.app/api?username=Pedro&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-  <img height="180em" src"https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
